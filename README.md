@@ -1,6 +1,6 @@
 # Fork notes
 
-Forked for DALI implementation reference
+Forked for DALI implementation reference ([Arjun Ashok](https://github.com/ashok-arjun/))
 
 # FastGAN
 *The official code release of the paper: [*Improving the Speed and Quality of GAN by Adversarial Training*](https://arxiv.org/abs/2008.03364)*
